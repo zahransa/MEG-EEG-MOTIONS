@@ -1,4 +1,6 @@
 # Feed the Bird Game
+![image](https://github.com/zahransa/MEG-EEG-MOTIONS/assets/29655962/31c610b2-0304-49eb-ae94-073e97473a83)
+
 # Overview
 Feed the Bird is an interactive game built using Python and Pygame, simulating a scenario where the player and computer take turns to shoot food towards a bird. The goal is to feed the bird by getting the food through a moving hole in a wall. The game also incorporates serial communication with an Arduino for providing vibro-tactile feedback.
 

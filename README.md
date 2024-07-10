@@ -66,6 +66,7 @@ def adjust_speed(setting):
     elif setting == 'hard':
         hole_speed = 10
         hole_height = 50
+
 # Changing the Number of Trials
 Update the total_trials variable to set the number of trials for the game. The player and computer shot percentages can also be adjusted:
 
